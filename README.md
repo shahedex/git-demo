@@ -4,7 +4,7 @@ This is a repository containing all the member informations of CloudOps February
 ## Task List
 1. Learn Linux
 2. Learn Git
-3. Learn ALC
+3. Learn ALC (*Python, NodeJS, Go, PHP*)
 
 ## To-do
 - Learn Shell Scripting
