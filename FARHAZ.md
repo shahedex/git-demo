@@ -1,13 +1,13 @@
-##Introduction to GIT
+## Introduction to GIT
 Testing and applying the knowledge acquired from the last workshop.
 
-##Agenda for Year-2022
+## Agenda for Year-2022
 - Learning Linux in-deapt
 - Mastering in Python
 - Preparing and setting up mind to learn Java in 2023
 - Updating LinkedIn profile
 
-##Dependancies
+## Dependancies
 1. Family
 2. Finances
 3. Job
