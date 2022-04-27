@@ -1,5 +1,5 @@
 
-## Introduction to GIT
+# Introduction to GIT
 
 Testing and applying the knowledge acquired from the last workshop.
 
