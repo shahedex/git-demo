@@ -1,4 +1,6 @@
 
+B
+
 
 
 
@@ -18,7 +20,7 @@ this is a repository containng the members infomation of CloudOps workshop
 -Linux Commands
 -Technical Questions Anwer
 -Learn Git and Git Hub (*with hands-on lab*)
-
+code demo 
 '''bash
 
 
