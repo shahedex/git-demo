@@ -1,5 +1,7 @@
 
-![Devops Logo](https://www.google.com/search?q=devops+logo&sxsrf=ALiCzsa8hAxDx8a5U-_gyIb8df6avlXZMQ:1651378300775&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi4rIfIt733AhXkhIkEHQMwC7EQ_AUoAXoECAEQAw&biw=1507&bih=714&dpr=1.25#imgrc=grfWhoYVj8pc7M)
+
+
+![AWS](https://ts4uportal-all-files-upload.nyc3.digitaloceanspaces.com/program-user-image/1650481329188-aws.png)
 # CloudOps Members
 this is a repository containng the members infomation of CloudOps workshop
 
