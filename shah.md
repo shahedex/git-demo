@@ -1,3 +1,5 @@
+
+
 # CloudOps Members
 this is a repository containng the members infomation of CloudOps workshop
 
@@ -11,16 +13,17 @@ this is a repository containng the members infomation of CloudOps workshop
 ## To-do
 -Linux Commands
 -Technical Questions Anwer
-
-
-
-_
-
+-Learn Git and Git Hub (*with hands-on lab*)
 
 
 
 
-## To-Do
-1- I
+
+
+
+
+
+
+
 
 
