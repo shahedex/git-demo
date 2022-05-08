@@ -29,3 +29,4 @@ $ ls
 6. Shah 
 7. Jannatul Mitu
 8. Habib Ullah
+9. Wazed
